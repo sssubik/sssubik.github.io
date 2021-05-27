@@ -13,6 +13,9 @@ published: true
 ---
 ## Wanna Learn Cardano? Following are the up to date resources for Cardano
 
+
+
+
 ### Learn Haskell:
 First to familiarize with Haskell:
 
