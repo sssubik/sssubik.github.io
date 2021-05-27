@@ -24,3 +24,6 @@ First to familiarize with Haskell:
 - [**Cardano Plutus Pioneer playlist**](https://www.youtube.com/watch?v=igV7kMXcdpw&list=PLnPTB0CuBOBypVDf1oGcsvnJGJg8h-LII)
 
 - [**Cardano Plutus Pioneer Github Repo**](https://github.com/input-output-hk/plutus-pioneer-program)
+
+#### Stuck in Plutus Pioneer Program? Look at this channel:
+- [**Cardano Plutus Pioneer Program Instructions**](https://www.youtube.com/watch?v=Cdu0gzCiYbY&list=PL53JxaGwWUqAtOxDuQArEp7_5fhAsM5lZ)
