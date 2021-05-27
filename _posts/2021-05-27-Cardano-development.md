@@ -4,7 +4,7 @@ date: 2021-05-27 13:58:00 +/-TTTT
 categories: [Blockchain, Cardano]
 tags: [plutus]     # TAG names should always be lowercase
 ---
-## Wanna Learn Cardano? Following are the upto date resources for Cardano
+## Wanna Learn Cardano? Following are the up to date resources for Cardano
 
 ### Learn Haskell:
 First to familiarize with Haskell:
