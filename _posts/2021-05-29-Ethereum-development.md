@@ -16,3 +16,8 @@ published: true
 
  [**Safe moon github repo**](https://github.com/Safemoon-Protocol)
  [**Safe Moon Smart Contract**](https://github.com/Safemoon-Protocol/safemoon.sol)
+ 
+### NFT Stuff:
+[**END TO END NFT APP**](https://github.com/PatrickAlphaC/nft-mix)
+[**END TO END NFT APP Youtube**](https://www.youtube.com/c/PatrickCollins/videos)
+[**dungeons and dragons**](https://github.com/PatrickAlphaC/dungeons-and-dragons-nft)
