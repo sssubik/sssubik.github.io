@@ -15,9 +15,14 @@ published: true
 ## Following are some buzz smart contracts:
 
  [**Safe moon github repo**](https://github.com/Safemoon-Protocol)
+ <br>
  [**Safe Moon Smart Contract**](https://github.com/Safemoon-Protocol/safemoon.sol)
+ <br>
  
 ### NFT Stuff:
 [**END TO END NFT APP**](https://github.com/PatrickAlphaC/nft-mix)
+<br>
 [**END TO END NFT APP Youtube**](https://www.youtube.com/c/PatrickCollins/videos)
+<br>
 [**dungeons and dragons**](https://github.com/PatrickAlphaC/dungeons-and-dragons-nft)
+<br>
