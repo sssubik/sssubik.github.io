@@ -26,3 +26,8 @@ published: true
 <br>
 [**dungeons and dragons**](https://github.com/PatrickAlphaC/dungeons-and-dragons-nft)
 <br>
+
+### Cool Smart Contracts:
+[**Stake DAO Github**](https://github.com/StakeDAO)
+<br>
+[**Stake DAO Github 2**](https://github.com/stake-capital)
