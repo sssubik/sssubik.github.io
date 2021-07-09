@@ -34,6 +34,6 @@ published: true
 
 <br>
 ### DEFI learning Stuff:
-[**AaveV2-BatchFlashDemo**]https://github.com/fifikobayashi/AaveV2-BatchFlashDemo
+[**AaveV2-BatchFlashDemo**](https://github.com/fifikobayashi/AaveV2-BatchFlashDemo)
 <br>
-[**Aave Flash Loan Tutorial - Finding Arbitrage**]https://www.youtube.com/watch?v=Aw7yvGFtOvI
+[**Aave Flash Loan Tutorial - Finding Arbitrage**](https://www.youtube.com/watch?v=Aw7yvGFtOvI)
