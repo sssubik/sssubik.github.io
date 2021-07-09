@@ -31,3 +31,9 @@ published: true
 [**Stake DAO Github**](https://github.com/StakeDAO)
 <br>
 [**Stake DAO Github 2**](https://github.com/stake-capital)
+
+<br>
+### DEFI learning Stuff:
+[**AaveV2-BatchFlashDemo**]https://github.com/fifikobayashi/AaveV2-BatchFlashDemo
+<br>
+[**Aave Flash Loan Tutorial - Finding Arbitrage**]https://www.youtube.com/watch?v=Aw7yvGFtOvI
